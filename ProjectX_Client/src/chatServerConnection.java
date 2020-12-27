@@ -1,4 +1,4 @@
-
+@SuppressWarnings("all")
 public class chatServerConnection 
 {
       public String cryptoKey = "";

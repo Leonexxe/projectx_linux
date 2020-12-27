@@ -1,4 +1,4 @@
-
+@SuppressWarnings("all")
 public class system {
 
       private log Log = null;

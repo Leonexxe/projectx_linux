@@ -1,6 +1,3 @@
-
-import java.util.Date;
-
 public class dateTime {
       public date Date = null;
       public time Time = null;

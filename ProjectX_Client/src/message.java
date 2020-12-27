@@ -5,6 +5,7 @@ import java.awt.Font;
 import javax.swing.JPanel;
 import javax.swing.JTextArea;
 
+@SuppressWarnings("all")
 public class message extends JPanel {
       /**
       *

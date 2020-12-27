@@ -1,6 +1,6 @@
 
 import java.awt.AWTException;
-
+@SuppressWarnings("all")
 public class processMessage {
       public static void processmessage(String message, Client client, ServerConnection con) {
             String msg = cryptography.decrypt(con.cryptoKey, message);

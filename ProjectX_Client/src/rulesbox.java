@@ -38,10 +38,10 @@ public class rulesbox {
     {
     }
 
-    public void addmessage(String text) 
+    public void addmessage(String text, String type) 
     {
         this.messagecounter++;
-        rule newrule = new rule();
+        rule newrule = new rule(text, type);
 
         //this.panel.setBounds(this.panel.getX(), this.panel.getY(), this.panel.getWidth(), this.panel.getHeight() + 90);
         this.panel.setBounds(this.panel.getX(), this.panel.getY(), this.panel.getWidth(), this.verticalIndent);
