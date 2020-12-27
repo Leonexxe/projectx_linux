@@ -1,0 +1,40 @@
+ProjectX Community guidelines
+
+§1 - general
+    (1) racist isn't tollerated at all and will be sancionated as you can see in §6.2
+    (2)
+
+§2 - custom server specific rules
+    (1) you can set custom rules for your own server or servers on wich you have the permission to set rules but 
+    those custom do NOT stand above the Community guidelines to keep things short and clear just view §2-2
+    (2) below you will find the hierachie for rules
+        (1.) Administration
+        (2.) Community guidelines
+        (3.) global moderator's
+        (4.) moderator's/custom server specific rules on your server or whatever system you have on your server
+    (3) §3 is a explanation of §2-2,
+    as you can see in §2-2 the Administration stands above the Community guidelines and the Community guidelines stand above
+    any custom rules you set for your server.
+
+§3 - text messages
+
+§4 - voice channels
+
+§5 - graphical content(videos, images, gifs, etc.)
+
+§6 - sanctioning
+    (1) racist
+        (1.) if it is the first time you get sanctionated for racist then< it will result in a 24h ban.
+        (2.) if it is not the first time you get sanctionated for racist then it will result in a 168h ban.
+        (3.) if you have been sanctionated for racist more than 10 times the time you will get banned for
+        is in the discretion of the administator-team but will at least be 720h,
+        and could also result in you getting banned permanently.
+
+    (2) Swastikas (the Nazi-symbol, not the Hindu one)  (§3.2 & §4.2 & §5.2)
+        (A) Posting the nazi symbol will result in a permanent ban.
+
+    (3) Porn (§3.3 & §4.3 & §5.3)
+    (4) Harasment (§3.4 & §4.4 & §5.4)
+
+    (100) Administrators are always and in any case allowed to ban users or groups of users without giving any reason 
+    even if they technicly didnt break the Community guidelines.
