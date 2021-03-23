@@ -27,7 +27,7 @@ public class rulesbox {
         this.scroll.getVerticalScrollBar().setUI(new BasicScrollBarUI() {
             @Override
             protected void configureScrollBarColors() {
-                this.thumbColor = Colors.dark_Background;
+                /*this.thumbColor = Colors.dark_Background;*/
             }
         });
         this.scroll.getVerticalScrollBar().setBackground(Color.black);

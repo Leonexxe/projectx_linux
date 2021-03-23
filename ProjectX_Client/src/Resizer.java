@@ -1,6 +1,6 @@
 
 import java.awt.*;
-
+import core.Client;
 public class Resizer extends Thread{
 
     private int ComponentCount = 0;

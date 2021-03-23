@@ -1,4 +1,5 @@
 
+/*
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -34,6 +35,7 @@ public class boot {
             /*
             starts the client with linux config
              */
+            /*
             if(os.toUpperCase().equals("LINUX"))
             {
                   try {
@@ -47,6 +49,7 @@ public class boot {
             /*
             * starts the client with windows config
              */
+            /*
             else if(os.toUpperCase().equals("WINDOWS"))
             {
                   try {
@@ -60,6 +63,7 @@ public class boot {
             /*
             * starts the client with macOS config
              */
+            /*
             else if(os.toUpperCase().equals("MACOS"))
             {
                   try {
@@ -76,3 +80,4 @@ public class boot {
             readSettings("linux");
       }
 }
+*/

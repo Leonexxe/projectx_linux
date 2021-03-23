@@ -4,7 +4,7 @@ print("compiling classes...")
 os.system("javac folder *.java") # compiling classes
 print("...done")
 print("compiling classes...")
-sysout = input("start with or without console output? (could/will affect performance!)[Y/n]:")
+sysout = input("start with console output? (could/will affect performance!)[Y/n]:")
 if sysout == "Y":
 	print("starting with console output")
 	print("executing main class...")

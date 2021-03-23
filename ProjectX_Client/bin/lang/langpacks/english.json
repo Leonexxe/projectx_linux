@@ -1,0 +1,18 @@
+{
+    "assets":{
+        "projectX":"projectX"
+        ,
+        "login":"anmeldung"
+        ,
+        "tologin":"anmelden"
+        ,
+        "logout":"abmeldung"
+        ,
+        "tologout":"abmelden"
+        ,
+        "verify":"verifizieren"
+    }
+    ,
+    "chat":{
+    }
+}
