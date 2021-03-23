@@ -1,1 +1,0 @@
-If you want to make any modifications please see "log.java" every relevant event will get transmitted to the log thread so you can catch and use it.
